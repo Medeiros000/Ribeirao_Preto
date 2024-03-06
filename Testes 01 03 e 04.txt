@@ -1,0 +1,15 @@
+1) 101
+
+3) Respostas:
+
+a) 8
+b) 128
+c) 49
+d) 100
+e) 13
+f) 200
+
+4) Resposta:
+
+	Ligo o primeiro interruptor e espero 3 min, desligo e ligo o segundo.
+A lampada acessa pertence ao interruptor ligado e as que estão apagadas uma delas deve ter uma alteração na temperatura indicando ser do interruptor que fora ligado anteriormente. A terceira deve estar fria e pertence ao interruptor que não foi ligado. 
